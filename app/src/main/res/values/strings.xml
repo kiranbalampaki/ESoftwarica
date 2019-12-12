@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">try</string>
+    <string name="title_home">Home</string>
+    <string name="title_AddStudent">Add Student</string>
+    <string name="title_AboutUs">About Us</string>
+</resources>
